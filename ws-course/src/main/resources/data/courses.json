@@ -1,0 +1,81 @@
+{"course":[
+    {
+        "id": 1,
+        "name": "Introduction to Java Programming",
+        "description": "Learn the basics of Java programming.",
+        "credits": 3
+    },
+    {
+        "id": 2,
+        "name": "Advanced Java Programming",
+        "description": "Explore advanced Java topics.",
+        "credits": 4
+    },
+    {
+        "id": 3,
+        "name": "Web Development with Java",
+        "description": "Learn how to build web applications with Java.",
+        "credits": 3
+    },
+    {
+        "id": 4,
+        "name": "Data Structures and Algorithms in Java",
+        "description": "Explore fundamental data structures and algorithms.",
+        "credits": 4
+    },
+    {
+        "id": 5,
+        "name": "Java for Android App Development",
+        "description": "Create Android apps with Java.",
+        "credits": 3
+    },
+    {
+        "id": 6,
+        "name": "Java Spring Framework",
+        "description": "Learn Java Spring for web development.",
+        "credits": 4
+    },
+    {
+        "id": 7,
+        "name": "Java Enterprise Edition (J2EE)",
+        "description": "Explore Java EE for enterprise applications.",
+        "credits": 4
+    },
+    {
+        "id": 8,
+        "name": "JavaFX User Interface Development",
+        "description": "Create JavaFX user interfaces.",
+        "credits": 3
+    },
+    {
+        "id": 9,
+        "name": "Java and Machine Learning",
+        "description": "Combine Java and ML for data analysis.",
+        "credits": 4
+    },
+    {
+        "id": 10,
+        "name": "Java Game Development",
+        "description": "Create games using Java.",
+        "credits": 3
+    },
+    {
+        "id": 11,
+        "name": "Java and Web Security",
+        "description": "Learn about web security in Java applications.",
+        "credits": 4
+    },
+    {
+        "id": 12,
+        "name": "Microservices with Java",
+        "description": "Explore microservices architecture in Java.",
+        "credits": 4
+    },
+    {
+        "id": 13,
+        "name": "Java and Cloud Computing",
+        "description": "Integrate Java with cloud services.",
+        "credits": 3
+    }
+]
+}
